@@ -4,6 +4,8 @@
 A minimal forward authentication service that provides OAuth/SSO login and authentication for the [traefik](https://github.com/containous/traefik) reverse proxy/load balancer.
 
 ## Fork of fork of fork notes
+You may want to checkout my other version of this [dsbferris/new-traefik-forward-auth](https://github.com/dsbferris/new-traefik-forward-auth)
+
 This is yet another fork  
 of [traPtitech/traefik-forward-auth](https://github.com/traPtitech/traefik-forward-auth)  
 merged with [jhbruhn/traefik-forward-auth](https://github.com/jhbruhn/traefik-forward-auth)  
